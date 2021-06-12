@@ -59,6 +59,12 @@ input{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding-left: 10%;
 }
-html{
+.bck{
     background-image: url(http://dzone.mfac.edu.au/10SWD/2020/013253/Project/CoffeeShop/Images/Image.jpg);
+}
+.bla{
+    background-color: black;
+}
+.Tit{
+    font-family: "Antic";
 }

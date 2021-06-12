@@ -19,7 +19,7 @@
         }
         public function get_CustomerName()
         {
-            return $this->CustomerID;
+            return $this->CustomerName;
         }
 
         public function set_CustomerName($name)
@@ -35,7 +35,7 @@
         {
             $this->Passkey = $passkey;
         }
-        public function get_Genger()
+        public function get_Gender()
         {
             return $this->Gender;
         }
